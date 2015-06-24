@@ -128,9 +128,20 @@
     "res\\screens\\android\\screen-xhdpi-landscape.png",
     "plugins\\org.apache.cordova.geolocation\\doc\\it\\index.md",
     "res\\icons\\windows\\Square44x44Logo.scale-240.png",
-    "res\\screens\\android\\screen-mdpi-portrait.png"
+    "res\\screens\\android\\screen-mdpi-portrait.png",
+    "www\\images\\img_13.png",
+    "www\\images\\img_14.png",
+    "www\\images\\img_16.png",
+    "www\\images\\img_17.png",
+    "www\\images\\img_18.png",
+    "www\\images\\img_15.png",
+    "www\\images\\img_19.png",
+    "www\\images\\img_20.png"
   ],
-  "deletedFilesIos": [],
+  "deletedFilesIos": [
+    "res\\icons\\android\\icon-32-ldpi.png",
+    "res\\icons\\android\\icon-48-ldpi.png"
+  ],
   "addedPluginsIos": [
     "org.apache.cordova.geolocation@0.3.12"
   ],
@@ -264,9 +275,20 @@
     "res\\screens\\android\\screen-xhdpi-landscape.png",
     "plugins\\org.apache.cordova.geolocation\\doc\\it\\index.md",
     "res\\icons\\windows\\Square44x44Logo.scale-240.png",
-    "res\\screens\\android\\screen-mdpi-portrait.png"
+    "res\\screens\\android\\screen-mdpi-portrait.png",
+    "www\\images\\img_13.png",
+    "www\\images\\img_14.png",
+    "www\\images\\img_16.png",
+    "www\\images\\img_17.png",
+    "www\\images\\img_18.png",
+    "www\\images\\img_15.png",
+    "www\\images\\img_19.png",
+    "www\\images\\img_20.png"
   ],
-  "deletedFiles": [],
+  "deletedFiles": [
+    "res\\icons\\android\\icon-32-ldpi.png",
+    "res\\icons\\android\\icon-48-ldpi.png"
+  ],
   "addedPlugins": [
     "org.apache.cordova.geolocation@0.3.12"
   ],

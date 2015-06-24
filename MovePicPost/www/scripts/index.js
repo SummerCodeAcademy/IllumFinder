@@ -44,7 +44,7 @@
 
 
 function randomImg() {
-    var randomNumber = Math.floor(Math.random() * 12) + 1;
+    var randomNumber = Math.floor(Math.random() * 20) + 1;
     var imgName = "img_" + randomNumber + ".png";
     document.getElementById("imageid").src = "images" + "/" + imgName;
 }
